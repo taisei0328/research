@@ -3,7 +3,7 @@
 GANファイル,Heatmapファイルの中のoutputには，説明を含めた実装結果の一部をReferenceをのせています．
 GANファイル内のoutputは，Pix2Pixの結果のみです．(CycleGANについてはコードのみ)
 
-研究の説明
+研究の説明：
 私はPythonを用いた機械学習の研究に取り組みました。
 テーマは2つあります。
 1つ目は「Google Street Viewを用いた各都市の特徴分析」です。
