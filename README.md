@@ -1,4 +1,5 @@
-機械学習のコードが格納されています．
+Processorファイルには自作の5段パイプラインプロセッサ設計のモジュールが格納されています.
+その他は機械学習のコードが格納されています．
 具体的には，Image Correction，GAN，Heatmap(Attention Map)，Semantic Segmentationのコードです．
 GANファイル,Heatmapファイルの中のoutputには，説明を含めた実装結果の一部をReferenceをのせています．
 GANファイル内のoutputは，Pix2Pixの結果のみです．(CycleGANについてはコードのみ)
@@ -12,4 +13,6 @@ GANファイル内のoutputは，Pix2Pixの結果のみです．(CycleGANにつ�
 2つ目は「Google Street Viewによる空き家外観デザイン変更支援システムです。
 この研究では、空き家の外観のデザインを自由にシミュレーションできるようなシステムを構築しました。変更後のデザインの一例としてヨーロッパのデザインにしています。
 こちらも同様にGoogle Street ViewのAPIを使用しました。収集したヨーロッパの建物画像をもとにPythonによりマスク画像を作成し、元画像とマスク画像をペアでPix2Pixで学習させることでどんな建物もヨーロッパの外装にできます。
+
+
 
