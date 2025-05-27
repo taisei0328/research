@@ -1,5 +1,4 @@
-Processorファイルには自作の5段パイプラインプロセッサ設計のモジュールが格納されています.
-その他は機械学習のコードが格納されています．
+機械学習のコードが格納されています．
 具体的には，Image Correction，GAN，Heatmap(Attention Map)，Semantic Segmentationのコードです．
 GANファイル,Heatmapファイルの中のoutputには，説明を含めた実装結果の一部をReferenceをのせています．
 GANファイル内のoutputは，Pix2Pixの結果のみです．(CycleGANについてはコードのみ)
